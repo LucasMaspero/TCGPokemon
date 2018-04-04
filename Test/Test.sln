@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "Entity\Entity.csproj", "{6920683A-DB31-400D-A73A-ACB6AB8FF2AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Types", "Types\Types.csproj", "{57B8E883-D6FE-45D1-8AF8-BB9AF90FC7A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Language", "Language\Language.csproj", "{7A7CABFF-1724-4288-B1A3-EA3330949958}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{B4EEEE74-70BB-481F-BD68-16E248712E77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Main", "Main\Main.csproj", "{73527783-9062-4E69-A9BF-FE0CF4952EEA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{DED62F6D-6C21-4E7C-9198-FA8CBB2F8227}"
+	ProjectSection(SolutionItems) = preProject
+		Database\TCGPokemonDB.db = Database\TCGPokemonDB.db
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6920683A-DB31-400D-A73A-ACB6AB8FF2AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6920683A-DB31-400D-A73A-ACB6AB8FF2AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6920683A-DB31-400D-A73A-ACB6AB8FF2AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6920683A-DB31-400D-A73A-ACB6AB8FF2AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57B8E883-D6FE-45D1-8AF8-BB9AF90FC7A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B8E883-D6FE-45D1-8AF8-BB9AF90FC7A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B8E883-D6FE-45D1-8AF8-BB9AF90FC7A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B8E883-D6FE-45D1-8AF8-BB9AF90FC7A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A7CABFF-1724-4288-B1A3-EA3330949958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A7CABFF-1724-4288-B1A3-EA3330949958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A7CABFF-1724-4288-B1A3-EA3330949958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A7CABFF-1724-4288-B1A3-EA3330949958}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4EEEE74-70BB-481F-BD68-16E248712E77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4EEEE74-70BB-481F-BD68-16E248712E77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4EEEE74-70BB-481F-BD68-16E248712E77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4EEEE74-70BB-481F-BD68-16E248712E77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73527783-9062-4E69-A9BF-FE0CF4952EEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73527783-9062-4E69-A9BF-FE0CF4952EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73527783-9062-4E69-A9BF-FE0CF4952EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73527783-9062-4E69-A9BF-FE0CF4952EEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

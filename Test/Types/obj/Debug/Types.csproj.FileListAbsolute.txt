@@ -1,0 +1,16 @@
+C:\Users\Lucas\Source\Repos\PokemonTCG\Test\Types\bin\Debug\Types.dll
+C:\Users\Lucas\Source\Repos\PokemonTCG\Test\Types\bin\Debug\Types.pdb
+C:\Users\Lucas\Source\Repos\PokemonTCG\Test\Types\bin\Debug\Language.dll
+C:\Users\Lucas\Source\Repos\PokemonTCG\Test\Types\bin\Debug\Language.pdb
+C:\Users\Lucas\Source\Repos\PokemonTCG\Test\Types\bin\Debug\es\Language.resources.dll
+C:\Users\Lucas\Source\Repos\PokemonTCG\Test\Types\obj\Debug\Types.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Source\Repos\PokemonTCG\Test\Types\obj\Debug\Types.dll
+C:\Users\Lucas\Source\Repos\PokemonTCG\Test\Types\obj\Debug\Types.pdb
+C:\Users\Lucas\Source\Repos\TCGPokemon\Test\Types\bin\Debug\Types.dll
+C:\Users\Lucas\Source\Repos\TCGPokemon\Test\Types\bin\Debug\Types.pdb
+C:\Users\Lucas\Source\Repos\TCGPokemon\Test\Types\bin\Debug\Language.dll
+C:\Users\Lucas\Source\Repos\TCGPokemon\Test\Types\bin\Debug\Language.pdb
+C:\Users\Lucas\Source\Repos\TCGPokemon\Test\Types\bin\Debug\es\Language.resources.dll
+C:\Users\Lucas\Source\Repos\TCGPokemon\Test\Types\obj\Debug\Types.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Source\Repos\TCGPokemon\Test\Types\obj\Debug\Types.dll
+C:\Users\Lucas\Source\Repos\TCGPokemon\Test\Types\obj\Debug\Types.pdb
